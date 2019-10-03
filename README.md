@@ -1,2 +1,2 @@
 # MoviesProject
-Movies Recommendation System
+Movies Recommendation System based on user ratings
